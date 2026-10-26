@@ -2,11 +2,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Gabrielly-SC/Gabrielly-SC/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
 
 <img data-importer="image" align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlyYnRlMmY1MXhtano4ZmVod2ZpcGwxajBlb3A5NHlxZGd3aGhuMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gx54W1mSpeYMg/giphy.gif"  />
 
